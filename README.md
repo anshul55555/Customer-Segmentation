@@ -4,7 +4,7 @@
 This project performs customer segmentation using the **Customer Purchasing Behaviors** dataset from Kaggle. The main goal is to group customers with similar purchasing patterns so that businesses can better understand customer behavior and design more targeted strategies.
 
 The workflow follows a practical machine learning pipeline:
-- loading the dataset from Kaggle inside Colab
+- loading the dataset from Kaggle inside Notebook
 - checking and cleaning the data
 - exploring customer behavior using charts
 - preprocessing numeric and categorical features
